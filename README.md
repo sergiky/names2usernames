@@ -1,4 +1,4 @@
-# 🏷️ names2usernames
+# names2usernames
 
 `names2usernames` is a **Python 3** script designed to transform real names into the most common corporate username conventions.
 
