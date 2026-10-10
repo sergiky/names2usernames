@@ -1,5 +1,7 @@
 # names2usernames
 
+<img width="1894" height="994" alt="2026-10-10-143820_hyprshot" src="https://github.com/user-attachments/assets/022d8811-0cae-4a0a-8603-169cd6155f53" />
+
 `names2usernames` is a **Python 3** script designed to transform real names into the most common corporate username conventions.
 
 ## 🚀 Features
